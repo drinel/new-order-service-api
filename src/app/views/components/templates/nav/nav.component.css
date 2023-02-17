@@ -1,0 +1,14 @@
+.container{
+    height: 84%;
+    background: linear-gradient(to right, #000003, #d0d6dacb);
+}
+
+
+i{
+    margin-right: .5rem;
+    
+}
+
+button {
+    margin: 1rem auto 0 1rem;
+}

@@ -1,0 +1,42 @@
+.container{
+    width: 80%;
+    margin: auto;
+
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.labels{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+@media (max-width: 800px){
+    .labels {
+      display: flex;
+      justify-content: flex-start;
+     
+    
+    }
+}
+
+.full-width{
+    width: 100%;
+
+}
+
+textarea {
+    min-height: 10rem;
+    max-height: 13rem;
+    
+}
+
+button{
+    width:60%;
+    margin-bottom: .5rem;
+    margin-left: 15%;
+    
+}

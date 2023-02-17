@@ -1,0 +1,27 @@
+.container{
+    width: 70%;
+    margin: auto;
+    
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 3rem;
+    font-size: 2rem;
+}
+
+mat-card{
+    padding: 1rem;
+}
+
+#abertura{
+    text-align: end;
+    border-bottom: 1px solid rgb(197, 197, 197) ;
+}
+
+button{
+    width: 60%;
+    margin-top: .5rem;
+    margin-left: 20%;
+    
+}
