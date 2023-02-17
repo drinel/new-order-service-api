@@ -2,26 +2,22 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Sistema Gerenciador de Ordens de Serviço que poderá ser implementado  com CRUD, utlizando Apis Rest e protocolo HTTP, através do Java com Spring Boot, JPA e Hibernate para persistência de dados, com algumas validações e tratamentos de exceções.
 
-## Code scaffolding
+Realizado o deploy da api na nuvem(railway.app) para ser consumido pelo front-end.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Front-end utilizando componentes angular com html,css e typescript para consumir a api rest, e ter uma aplicação web funcional, podendo gerenciar clientes, técnicos e ordens de serviço.
 
-## Build
+Front-end implementado no github pages.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Pode haver uma pequena demora ao trazer os dados do back-end, devido ao heroku entrar em modo de hibernação. 
 
-## Running unit tests
+Link para visualização no "About".
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![Capturar1](https://user-images.githubusercontent.com/26626189/169850682-3fe0ed2e-9a43-4c9c-b8bf-0d76947c2330.PNG)
+![Capturar2](https://user-images.githubusercontent.com/26626189/169850719-de24db01-2192-463c-9373-1b2dc72ea04c.PNG)
+![Capturar3](https://user-images.githubusercontent.com/26626189/169850749-d63a79f9-d927-4bde-90bd-0cb62bde04c3.PNG)
+![Capturar](https://user-images.githubusercontent.com/26626189/169850770-bcb38615-be90-4425-b567-afb6f8f465be.PNG)
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
